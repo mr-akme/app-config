@@ -1,14 +1,8 @@
 {
   "domain_list": [
-    "https://iboxiptvplayer.com/api",
-    "https://iboxxiptv.com/api",
-    "https://iboxxplayerplayer.com/api",
-    "https://app.iboxxplayerplayer.com/api",
-    "https://iboxxplayer.com/api",
-    "https://api.iboxxplayer.com/api",
-    "https://app.iboxxplayer.com/api",
-    "https://xibo.coderscodesdev.com/api",
-    "https://xibo.abeapp.eu/api"
+    "https://backend.stararcs.com",
+    "https://backend.star-arx.com",
+    "https://backend.stars-x.com"
   ]
 }
 
