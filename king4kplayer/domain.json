@@ -1,7 +1,11 @@
 {
   "domain_list": [
     "https://king4kplayer.com/api",
-    "https://king4kiptv.com/api"
+    "https://king4kiptv.com/api",
+    "https://app.king4kplayer.com/api",
+    "https://app.king4kiptv.com/api",
+    "https://www.king4kplayer.com/api",
+    "https://www.king4kiptv.com/api"
   ]
 }
 
