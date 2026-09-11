@@ -1,0 +1,9 @@
+{
+  "domain_list": [
+    "https://ibosol.org/api",
+    "https://ibosol.pro/api",
+    "https://app.ibosol.org/api",
+    "https://app.ibosol.pro/api"
+  ]
+}
+
