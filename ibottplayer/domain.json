@@ -1,0 +1,10 @@
+{
+  "domain_list": [
+    "http://iboottplayer.com/api",
+    "https://ibottplayer.com/api",
+    "https://ibottapp.com/api",
+    "https://backend.ibottplayer.com/api",
+    "https://backend.ibottapp.com/api"
+  ]
+}
+
